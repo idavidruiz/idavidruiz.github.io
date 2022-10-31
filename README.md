@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<<<<<<< HEAD
-<h3 align="center">Desarrollador web Full Stack / FreeLancer contenido AudioVisual</h3>
-=======
-<h3 align="center">Desarrollador Web Full Stack / FreeLancer contenido AudioVisual</h3>
->>>>>>> 0c7435fa7b39712b9119e41aaed26560f41014d9
 
+<h3 align="center">Desarrollador web Full Stack / FreeLancer contenido AudioVisual</h3>
+<br>
 - 🌱 I’m currently learning **Full Stack developer**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/idavidruiz](https://www.behance.net/idavidruiz)
